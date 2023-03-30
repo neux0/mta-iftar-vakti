@@ -1,0 +1,6 @@
+<meta>
+	<info author="neux" version="1.0" name="İftar Sayaci" description="Radar altında iftar/sahur'a kalan süreyi gösterir." type="script" />
+	<script src='sehirler.lua' type='shared' cache='false'/>
+	<script src='client.lua' type='client' cache='false' />
+	<script src='server.lua' type='server'/>
+</meta>
